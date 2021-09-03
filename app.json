@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-complete-guide",
+    "slug": "rn-complete-guide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-complete-guide"
+}
