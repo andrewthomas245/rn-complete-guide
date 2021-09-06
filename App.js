@@ -48,41 +48,7 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  myHeaderStyle: {
-    color: "white",
-    backgroundColor: "#3283fc",
-    fontWeight: "bold",
-    fontSize: 20,
-    textAlign: "center",
-    borderWidth: 0,
-    borderTopLeftRadius: 20,
-    borderTopRightRadius: 20,
-    borderBottomLeftRadius: 20,
-    borderBottomRightRadius: 20,
-  },
   screen: {
-    padding: 40,
-  },
-  inputContainer: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-  },
-  input: {
-    width: "80%",
-    borderColor: "black",
-    borderBottomWidth: 1,
-    padding: 10,
-  },
-  listItem: {
-    padding: 10,
-    marginVertical: 5,
-    backgroundColor: "#c0ede2",
-    borderColor: "blue",
-    borderWidth: 1,
-  },
-  buttonStyle: {
-    flexDirection: "row",
-    justifyContent: "flex-end",
+    padding: 50,
   },
 });
